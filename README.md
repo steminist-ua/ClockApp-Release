@@ -39,7 +39,7 @@ This repository contains the **Android Clock** application, a customizable full-
 
 ## Installation
 
-1. Download the APK from the [Releases](https://github.com/steminist-ua/ClockApp-Release/releases) page.
+1. Download the APK.
 2. Install the APK on your Android device.
 3. Open the app, adjust your preferences, and enjoy!
 
