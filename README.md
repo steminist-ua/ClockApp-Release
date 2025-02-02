@@ -36,7 +36,6 @@ This repository contains the **Android Clock** application, a customizable full-
 ## Requirements
 
 - **Minimum Android Version**: API 24 (Android 7.0 Nougat)
-- **Recommended IDE**: Android Studio Flamingo or later
 
 ## Installation
 
